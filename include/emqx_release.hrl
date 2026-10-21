@@ -29,7 +29,7 @@
 
 -ifndef(EMQX_ENTERPRISE).
 
--define(EMQX_RELEASE, {opensource, "4.4.19.5-heartbeat-repost"}).
+-define(EMQX_RELEASE, {opensource, "4.4.19.8"}).
 
 -else.
 
